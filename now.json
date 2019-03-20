@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rain-next",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/next"
+    }
+  ]
+}
